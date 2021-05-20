@@ -11,3 +11,7 @@ The challenge is to build out this card component and get it looking as close to
 Users should be able to:
 
 - View the optimal layout depending on their device's screen size
+
+## Live preview
+
+[Stats Preview Card Component](https://ashleybradley.co.uk/projects/frontend-mentor/stats-preview-card-component/)
